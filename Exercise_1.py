@@ -3,7 +3,6 @@
  Push - O(1)
  Pop - O(1)
  Peek - O(1)
- Pop - O(1)
  Empty - O(1)
  Show - O(1) 
 
